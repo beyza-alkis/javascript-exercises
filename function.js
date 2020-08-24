@@ -1,0 +1,7 @@
+var number1 = Math.ceil(Math.random() * 49)
+var number2 = Math.ceil(Math.random() * 49)
+var number3 = Math.ceil(Math.random() * 49)
+var number4 = Math.ceil(Math.random() * 49)
+var number5 = Math.ceil(Math.random() * 49)
+var number6 = Math.ceil(Math.random() * 49)
+console.log('Kolon : ' + number1 + ' ' + number2 + ' ' + number3 + ' ' + number4 + ' ' + number5 + ' ' + number6)
